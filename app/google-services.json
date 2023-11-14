@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "698863943401",
+    "project_id": "attendance-994ca",
+    "storage_bucket": "attendance-994ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698863943401:android:7c7c24826a32a64229ba78",
+        "android_client_info": {
+          "package_name": "edu.uwp.appfactory.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698863943401-kmdf0129spk91sugsm1aldnskkgaon17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfd0V_NyCXOUEX-i44gnqt59q62OyrvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698863943401-kmdf0129spk91sugsm1aldnskkgaon17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698863943401-e0jscnl0c07demutdvr6h74i7qf3er80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.uwp.appfactory.Attendance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
